@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Downloads\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Downloads\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\nuevo_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\nuevo_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PROYECTO FINAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\comida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\comida.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Downloads\\comida.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Downloads\\comida.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\listaalimentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\listaalimentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\modelos\\modeloalimentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\modelos\\modeloalimentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\modelos\\modelofabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\modelos\\modelofabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\modelos\\modeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\modelos\\modeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\alimentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\alimentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\marca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\marca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\modelos\\marcamodelonueva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\modelos\\marcamodelonueva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\marcaentidadnueva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\marcaentidadnueva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\clases\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clases\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\modelos\\modelomarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\modelos\\modelomarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto final\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Program.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:30:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "comida.resx",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\comida.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\comida.resx",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\comida.resx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\comida.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-25T19:30:03.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "comida.resx",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\comida.resx",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.resx",
+              "RelativeToolTip": "..\\..\\..\\comida.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-25T19:30:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "comida.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\comida.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\comida.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\comida.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\comida.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:29:59.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PROYECTO FINAL",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\PROYECTO FINAL.csproj",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
+              "RelativeToolTip": "PROYECTO FINAL\\PROYECTO FINAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T19:21:14.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "comida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\comida.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\comida.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\comida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\comida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:16:49.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModeloAlimentoLista.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloAlimentoLista.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Modelos\\ModeloAlimentoLista.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloAlimentoLista.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Modelos\\ModeloAlimentoLista.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:47:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListaAlimentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ListaAlimentos.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.Designer.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ListaAlimentos.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:41:47.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaAlimentos.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ListaAlimentos.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ListaAlimentos.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAADgv5wAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:33:34.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaAlimentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ListaAlimentos.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\ListaAlimentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:10:37.834Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "comida.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\comida.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\comida.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\comida.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\comida.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAADgv6gAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:46:37.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModeloProducto.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloProducto.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Modelos\\ModeloProducto.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloProducto.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Modelos\\ModeloProducto.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:43:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AlimentoLista.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\AlimentoLista.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\AlimentoLista.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\AlimentoLista.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\AlimentoLista.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:36:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\login.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\login.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:53:58.852Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fabricante.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\fabricante.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\fabricante.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAjwNAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:58:51.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fabricante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\fabricante.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\fabricante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:57:01.057Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:28:26.15Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Marca.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Marca.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:01:34.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Marca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Marca.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.Designer.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Marca.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:04:29.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Marca.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Marca.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAArwKIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:01:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MarcaEntidadNueva.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\MarcaEntidadNueva.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\MarcaEntidadNueva.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\MarcaEntidadNueva.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\MarcaEntidadNueva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:05:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:30:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MarcaModeloNueva.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\MarcaModeloNueva.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Modelos\\MarcaModeloNueva.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\MarcaModeloNueva.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Modelos\\MarcaModeloNueva.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:06:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModeloFabricante.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloFabricante.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Modelos\\ModeloFabricante.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloFabricante.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Modelos\\ModeloFabricante.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:07:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fabricante.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\fabricante.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.Designer.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\fabricante.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAQwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:03:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Conexion.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Conexion.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\Conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:43:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fabricante.resx",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.resx",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\fabricante.resx",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.resx",
+              "RelativeToolTip": "PROYECTO FINAL\\fabricante.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-18T21:05:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nuevo_usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Nuevo_usuario.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Nuevo_usuario.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Nuevo_usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Nuevo_usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:45:55.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Alimento.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Alimento.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\Alimento.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Alimento.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\Alimento.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:15:14.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\login.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\login.Designer.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:10:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "comida.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\comida.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\comida.Designer.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAqwFkBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:46:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "comida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\comida.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\comida.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\comida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\comida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:46:22.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Marca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\Marca.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Marca.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:06:44.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Marca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Marca.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\clases\\Marca.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\clases\\Marca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\clases\\Marca.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:11:23.689Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ModeloMarcas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloMarcas.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Modelos\\ModeloMarcas.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Modelos\\ModeloMarcas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Modelos\\ModeloMarcas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:59:52.511Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
