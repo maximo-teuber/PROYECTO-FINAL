@@ -177,9 +177,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="..\..\..\..\..\..\Downloads\comida.resx">
+    <EmbeddedResource Include="comida.resx">
       <DependentUpon>comida.cs</DependentUpon>
-      <Link>comida.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="fabricante.resx">
       <DependentUpon>fabricante.cs</DependentUpon>
