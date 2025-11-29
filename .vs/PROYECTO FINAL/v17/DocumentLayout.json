@@ -3,14 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\comida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\comida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\proyecto final\\proyecto final\\baseusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\baseusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\maxim\\onedrive\\desktop\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,16 +33,8 @@
       "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\listaalimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A93A967-7C64-43B5-8B97-35B6B6CB1FC3}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\proyecto final\\modelos\\modelomarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -141,6 +141,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\OneDrive\\Desktop\\comida.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\comida.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PROYECTO FINAL\\comida.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,8 +154,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\BaseUsuarios.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\BaseUsuarios.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\BaseUsuarios.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\BaseUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:33:21.222Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 37,
               "Title": "comida.Designer.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\comida.Designer.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\comida.Designer.cs",
@@ -175,20 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "comida.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\comida.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.cs",
-              "RelativeToolTip": "..\\..\\..\\comida.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:02:33.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "comida.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\comida.cs",
@@ -238,6 +242,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "comida.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\comida.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Desktop\\comida.cs",
+              "RelativeToolTip": "..\\..\\..\\comida.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAD4v2AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:02:33.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Program.cs",
@@ -282,8 +299,7 @@
               "ToolTip": "C:\\Users\\maxim\\Downloads\\comida.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\comida.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:16:49.509Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-25T19:16:49.509Z"
             },
             {
               "$type": "Document",
@@ -326,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ListaAlimentos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\ListaAlimentos.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\ListaAlimentos.cs",
@@ -364,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\login.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\login.cs",
@@ -389,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "fabricante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\fabricante.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\fabricante.cs",
@@ -401,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
@@ -413,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Marca.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Marca.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Marca.cs",
@@ -541,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Nuevo_usuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Desktop\\proyectos de dise\u00F1o y implementacion de sistemas computacionales\\trabajo 4\\PROYECTO FINAL\\PROYECTO FINAL\\Nuevo_usuario.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Nuevo_usuario.cs",
